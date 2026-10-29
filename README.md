@@ -1,4 +1,4 @@
-# TRACE — Bengaluru data foundation (Milestone 1)
+# TRACE — Bengaluru data foundation
 
 This starter project ingests and audits historical traffic CSVs before choosing a prediction target.
 It deliberately does **not** train a model or fabricate traffic observations.
